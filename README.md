@@ -7,14 +7,14 @@ In this repo you'll continue to practice fundamental Angular principles you've l
 
 
 ## Setup
-For this project you're going to need to serve your files through a server
+<!-- For this project you're going to need to serve your files through a server
 * Fork and clone this repository
 * Open up your terminal and (if you have Node/NPM) run
   `npm install -g live-server`
 * Now once you want to check out your code, cd into your folder and run
   `live-server`
   The line after should print out: `Starting ... at http://127.0.0.1:8080`
-* Go to http://localhost:8080. You should see the beginnings of your application.
+* Go to http://localhost:8080. You should see the beginnings of your application. -->
 
 
 ## Step 1: Review the Existing Repo Code
