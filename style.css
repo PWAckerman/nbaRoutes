@@ -79,6 +79,12 @@ html, body {
   margin: 2px;
 }
 
+.team-data-col {
+  width: 32%;
+  float: left;
+  margin: 2px;
+}
+
 .form {
   width: 80%;
   margin: 45px auto;

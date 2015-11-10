@@ -17,6 +17,7 @@ app.service('teamService', function ($http, $q) {
         })
     }
 
+
     this.getTeamData = function(team){
 
       var deferred = $q.defer();
